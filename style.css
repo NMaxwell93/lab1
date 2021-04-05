@@ -3,3 +3,29 @@ body {
     font-family: 'Open Sans', sans-serif;
 }
 
+a {
+    text-decoration: none;
+    color: #69696a
+}
+
+ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+#headerlist {
+    text-align: left;
+}
+
+button {
+    background-color: #000;
+    color: #fff;
+    border-radius: 18px;
+    border: solid;
+    text-align: center;
+    padding: 15px;
+    width: 100%;
+
+    
+}
